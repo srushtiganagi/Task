@@ -1,4 +1,4 @@
-# Week Sum Solution
+# Task
 
 This repository contains a JavaScript solution that:
 1. Takes a dictionary where keys are dates (`YYYY-MM-DD`) and values are integers.
