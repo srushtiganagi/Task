@@ -1,0 +1,15 @@
+{
+  "name": "week-sum-solution",
+  "version": "1.0.0",
+  "description": "Solution for transforming date dictionary into weekday dictionary with missing day handling",
+  "main": "solution.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": ["javascript", "date", "dictionary", "weekdays", "algorithm"],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
